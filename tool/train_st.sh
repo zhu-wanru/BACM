@@ -1,0 +1,2 @@
+
+python3 -m torch.distributed.launch --nproc_per_node=1 main_st.py --src_dataset front3d --trgt_dataset scannet --sam_path "/cluster/personal/DODA_sam/pretrained_model/sam_vit_b_01ec64.pth" --weight_pc '/cluster/personal/BACM/output/da_front3d_scannet/spconv/no_ce/ckpt/pc_train_epoch_70.pth' --weight_img '/cluster/personal/BACM/output/da_front3d_scannet/spconv/no_ce/ckpt/img_train_epoch_70.pth'

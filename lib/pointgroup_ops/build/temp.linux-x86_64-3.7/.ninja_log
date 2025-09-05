@@ -1,0 +1,7 @@
+# ninja log v5
+5	14228	1724727992353395457	/cluster/personal/DODA/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/pointgroup_ops.o	f9882350f789106b
+5	15842	1724727993969383429	/cluster/personal/DODA/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/pointgroup_ops_api.o	6b7dd956ce864c1c
+6	17025	1724727995153374615	/cluster/personal/DODA/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/cuda.o	bc94c8b2007cb111
+5	22762	1752581977116044289	/cluster/personal/BACM/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/pointgroup_ops.o	b4da6ef14178364f
+6	23741	1752581978104036721	/cluster/personal/BACM/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/cuda.o	df8641b90cde882d
+5	25842	1752581980188020757	/cluster/personal/BACM/lib/pointgroup_ops/build/temp.linux-x86_64-3.7/src/pointgroup_ops_api.o	cef379f4bc5361a4
